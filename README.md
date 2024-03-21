@@ -34,3 +34,7 @@ The dataset used in this project can be accessed from [Kaggle- Spam Email Classi
 | Bayes Optimized Naive Bayes | 98.4753% | 97.1429% | 91.2752% | 93.7500% | 99.5859% |
 | Grid Support Vector Machine (SVM) | 98.4753% | 99.2537% | 89.2617% | 93.9929% | 99.8965% |
 | Grid Naive Bayes | 98.3857% | 97.1223% | 90.6040% | 93.7500% | 99.5859% |
+
+## :balance_scale: License
+
+This project is licensed under the terms of the MIT License. You're free to use, modify, distribute, and publish the code under this license.
